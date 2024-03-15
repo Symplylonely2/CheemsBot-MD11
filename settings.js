@@ -42,8 +42,8 @@ global.antiforeignnumber = '212' //set anti foreign number country code
 global.welcome = false //welcome/left in groups
 global.anticall = false //bot blocks user when called
 global.autoswview = true //auto status/story view
-global.adminevent = false //show promote/demote message
-global.groupevent = false //show update messages in group chat
+global.adminevent = true //show promote/demote message
+global.groupevent = true //show update messages in group chat
 //msg
 global.mess = {
 	limit: 'Your limit is up!',
