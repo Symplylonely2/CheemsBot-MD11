@@ -20,7 +20,7 @@ global.location = "Nigeria, lagos, Abuja" //ur location
 
 //new
 global.botname = '𝐀𝐧𝐭𝐢𝐬𝐨𝐜𝐢𝐚𝐥 𝐌𝐃•💎' //ur bot name
-global.ownernumber = '‪233246274343‬' //ur owner number
+global.ownernumber = '233246274343' //ur owner number
 global.ownername = '𓅓𝐀𝐧𝐭𝐢𝐬𝐨𝐜𝐢𝐚𝐥 𝐇𝐮𝐦𝐢𝐝𝐢𝐭𝐲—ε•𓅓' //ur owner name
 global.websitex = "https://youtu.be/mu5m6aB6P5k"
 global.wagc = "(^_-)-☆"
