@@ -19,19 +19,19 @@ global.socialm = "GitHub: iamevilboy" //ur github or insta name
 global.location = "Nigeria, lagos, Abuja" //ur location
 
 //new
-global.botname = '𝐀𝐧𝐭𝐢𝐬𝐨𝐜𝐢𝐚𝐥 𝐌𝐃•💎' //ur bot name
-global.ownernumber = '233246274343' //ur owner number
-global.ownername = '𓅓𝐀𝐧𝐭𝐢𝐬𝐨𝐜𝐢𝐚𝐥 𝐇𝐮𝐦𝐢𝐝𝐢𝐭𝐲—ε•𓅓' //ur owner name
+global.botname = '𝐒𝐦𝐨𝐨𝐭𝐡 𝐁𝐨𝐭••🐔' //ur bot name
+global.ownernumber = '2348165725276' //ur owner number
+global.ownername = '𝐌𝐚𝐫𝐢𝐨 🐔' //ur owner name
 global.websitex = "https://youtu.be/mu5m6aB6P5k"
 global.wagc = "(^_-)-☆"
 global.themeemoji = '💎'
 global.wm = "Antisocial Bot Inc."
 global.botscript = 'https://github.com/Olamuyiwa63/CheemsBot-MD11' //script link
-global.packname = "𓅓•"
-global.author = "𝐀𝐧𝐭𝐢𝐬𝐨𝐜𝐢𝐚𝐥 𝐇𝐮𝐦𝐢𝐝𝐢𝐭𝐲•𓅓"
-global.creator = "233246274343@s.whatsapp.net"
-global.xprefix = '!'
-global.premium = ["233246274343"] // Premium User
+global.packname = "🐔•"
+global.author = "𝐒𝐦𝐨𝐨𝐭𝐡 𝐁𝐨𝐭•🐔"
+global.creator = "2348165725276@s.whatsapp.net"
+global.xprefix = '*'
+global.premium = ["233246274343,2348165725276"] // Premium User
 global.hituet = 0
 
 //bot sett
